@@ -1,7 +1,7 @@
 {
   "showPopup": true,
-  "versionKey": "coming_soon_may_2026",
-  "title": "Coming Soon",
-  "message": "We are working on new tools for One Shot Caddie, including Map Mode, Camera Aim Lens, and smarter round insights. Thanks for being early and helping shape the app.",
-  "buttonTitle": "Got It"
+  "versionKey": "feedback_request",
+  "title": "Help Shape One Shot Caddie",
+  "message": "Got an idea or spotted something to improve? Send feedback from the Profile page. We read every suggestion.",
+  "buttonTitle": "Will Do"
 }
