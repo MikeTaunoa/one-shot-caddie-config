@@ -1,7 +1,8 @@
 {
   "showPopup": true,
-  "versionKey": "feedback_request",
-  "title": "Help Shape One Shot Caddie",
-  "message": "Got an idea or spotted something to improve? Send feedback from the Profile page. We read every suggestion.",
-  "buttonTitle": "Will Do"
+  "versionKey": "map_mode_teaser_may_12_2026",
+  "style": "default",
+  "title": "Big Update Coming",
+  "message": "We’re building major new One Shot Caddie features including Map Mode, smarter layup planning, camera-based aiming, and improved round insights. Thanks for being an early user.",
+  "buttonTitle": "Awesome"
 }
