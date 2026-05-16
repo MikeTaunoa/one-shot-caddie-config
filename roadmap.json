@@ -1,8 +1,8 @@
 {
-  "showPopup": true,
+  "showPopup": false,
   "versionKey": "map_mode_teaser_may_12_2026",
   "style": "default",
-  "title": "Big Update Coming",
-  "message": "We’re building major new One Shot Caddie features including Map Mode, smarter layup planning, camera-based aiming, and improved round insights. Thanks for being an early user.",
-  "buttonTitle": "Awesome"
+  "title": "New Map Target Mode",
+  "message": "Tap anywhere on the map to place your target. Drag the flag to fine-tune the exact spot, then One Shot Caddie will calculate distance, wind direction, and shot advice based on that target.",
+  "button": "Got it"
 }
